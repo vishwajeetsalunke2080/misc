@@ -1,0 +1,5 @@
+Game Rules:-
+
+1. Each player should have only one chance
+2. In case the dice value is '0' the user can repeat the dice
+
