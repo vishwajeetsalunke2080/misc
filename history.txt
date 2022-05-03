@@ -1,0 +1,32 @@
+
+user input :hello my dear friend
+
+source language :english
+output language :hi
+translation :
+user input :hello world
+
+source language :english
+output language :hi
+translation :
+user input :hello dear friend
+
+source language :english
+output language :hi
+translation :
+user input :hello
+
+source language :english
+output language :hi
+translation :
+user input :hello vishwajeet
+
+source language :gujarati
+output language :hi
+translation :
+user input :hello vishwajeet salunke
+
+source language :hindi
+output language :hi
+translation :hello user how are you
+hello user how are you
